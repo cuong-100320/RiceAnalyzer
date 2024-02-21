@@ -1,0 +1,43 @@
+﻿  mani.cpp
+E:\c++ dastabase\Project1\Project1\mani.cpp(23,30): warning C4566: character represented by universal-character-name '\u1EC3' cannot be represented in the current code page (1252)
+E:\c++ dastabase\Project1\Project1\mani.cpp(23,30): warning C4566: character represented by universal-character-name '\u1EBF' cannot be represented in the current code page (1252)
+E:\c++ dastabase\Project1\Project1\mani.cpp(23,30): warning C4566: character represented by universal-character-name '\u1ED1' cannot be represented in the current code page (1252)
+E:\c++ dastabase\Project1\Project1\mani.cpp(23,30): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+E:\c++ dastabase\Project1\Project1\mani.cpp(106,18): warning C4566: character represented by universal-character-name '\u01A1' cannot be represented in the current code page (1252)
+E:\c++ dastabase\Project1\Project1\mani.cpp(106,18): warning C4566: character represented by universal-character-name '\u1EDF' cannot be represented in the current code page (1252)
+E:\c++ dastabase\Project1\Project1\mani.cpp(106,18): warning C4566: character represented by universal-character-name '\u1EEF' cannot be represented in the current code page (1252)
+E:\c++ dastabase\Project1\Project1\mani.cpp(106,18): warning C4566: character represented by universal-character-name '\u1EC7' cannot be represented in the current code page (1252)
+E:\c++ dastabase\Project1\Project1\mani.cpp(106,18): warning C4566: character represented by universal-character-name '\u1EA3' cannot be represented in the current code page (1252)
+E:\c++ dastabase\Project1\Project1\mani.cpp(106,18): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+E:\c++ dastabase\Project1\Project1\mani.cpp(106,18): warning C4566: character represented by universal-character-name '\u01B0' cannot be represented in the current code page (1252)
+E:\c++ dastabase\Project1\Project1\mani.cpp(106,18): warning C4566: character represented by universal-character-name '\u1EE3' cannot be represented in the current code page (1252)
+E:\c++ dastabase\Project1\Project1\mani.cpp(106,18): warning C4566: character represented by universal-character-name '\u1EA1' cannot be represented in the current code page (1252)
+     Creating library E:\c++ dastabase\Project1\x64\Release\Project1.lib and object E:\c++ dastabase\Project1\x64\Release\Project1.exp
+  Generating code
+  6 of 146 functions ( 4.1%) were compiled, the rest were copied from previous compilation.
+    5 functions were new in current compilation
+    6 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+mysqlcppconn-static.lib(mysql_driver.obj) : warning LNK4099: PDB '' was not found with 'mysqlcppconn-static.lib(mysql_driver.obj)' or at ''; linking object as if no debug info
+mysqlcppconn-static.lib(mysql_connection.obj) : warning LNK4099: PDB '' was not found with 'mysqlcppconn-static.lib(mysql_connection.obj)' or at ''; linking object as if no debug info
+mysqlcppconn-static.lib(mysql_native_driver_wrapper.obj) : warning LNK4099: PDB '' was not found with 'mysqlcppconn-static.lib(mysql_native_driver_wrapper.obj)' or at ''; linking object as if no debug info
+mysqlcppconn-static.lib(mysql_uri.obj) : warning LNK4099: PDB '' was not found with 'mysqlcppconn-static.lib(mysql_uri.obj)' or at ''; linking object as if no debug info
+mysqlcppconn-static.lib(mysql_metadata.obj) : warning LNK4099: PDB '' was not found with 'mysqlcppconn-static.lib(mysql_metadata.obj)' or at ''; linking object as if no debug info
+mysqlcppconn-static.lib(mysql_warning.obj) : warning LNK4099: PDB '' was not found with 'mysqlcppconn-static.lib(mysql_warning.obj)' or at ''; linking object as if no debug info
+mysqlcppconn-static.lib(mysql_prepared_statement.obj) : warning LNK4099: PDB '' was not found with 'mysqlcppconn-static.lib(mysql_prepared_statement.obj)' or at ''; linking object as if no debug info
+mysqlcppconn-static.lib(mysql_statement.obj) : warning LNK4099: PDB '' was not found with 'mysqlcppconn-static.lib(mysql_statement.obj)' or at ''; linking object as if no debug info
+mysqlcppconn-static.lib(mysql_debug.obj) : warning LNK4099: PDB '' was not found with 'mysqlcppconn-static.lib(mysql_debug.obj)' or at ''; linking object as if no debug info
+mysqlcppconn-static.lib(mysql_client_api.obj) : warning LNK4099: PDB '' was not found with 'mysqlcppconn-static.lib(mysql_client_api.obj)' or at ''; linking object as if no debug info
+mysqlcppconn-static.lib(mysql_native_connection_wrapper.obj) : warning LNK4099: PDB '' was not found with 'mysqlcppconn-static.lib(mysql_native_connection_wrapper.obj)' or at ''; linking object as if no debug info
+mysqlcppconn-static.lib(mysql_util.obj) : warning LNK4099: PDB '' was not found with 'mysqlcppconn-static.lib(mysql_util.obj)' or at ''; linking object as if no debug info
+mysqlcppconn-static.lib(mysql_art_resultset.obj) : warning LNK4099: PDB '' was not found with 'mysqlcppconn-static.lib(mysql_art_resultset.obj)' or at ''; linking object as if no debug info
+mysqlcppconn-static.lib(mysql_resultbind.obj) : warning LNK4099: PDB '' was not found with 'mysqlcppconn-static.lib(mysql_resultbind.obj)' or at ''; linking object as if no debug info
+mysqlcppconn-static.lib(mysql_ps_resultset.obj) : warning LNK4099: PDB '' was not found with 'mysqlcppconn-static.lib(mysql_ps_resultset.obj)' or at ''; linking object as if no debug info
+mysqlcppconn-static.lib(mysql_ps_resultset_metadata.obj) : warning LNK4099: PDB '' was not found with 'mysqlcppconn-static.lib(mysql_ps_resultset_metadata.obj)' or at ''; linking object as if no debug info
+mysqlcppconn-static.lib(mysql_parameter_metadata.obj) : warning LNK4099: PDB '' was not found with 'mysqlcppconn-static.lib(mysql_parameter_metadata.obj)' or at ''; linking object as if no debug info
+mysqlcppconn-static.lib(mysql_resultset.obj) : warning LNK4099: PDB '' was not found with 'mysqlcppconn-static.lib(mysql_resultset.obj)' or at ''; linking object as if no debug info
+mysqlcppconn-static.lib(mysql_native_resultset_wrapper.obj) : warning LNK4099: PDB '' was not found with 'mysqlcppconn-static.lib(mysql_native_resultset_wrapper.obj)' or at ''; linking object as if no debug info
+mysqlcppconn-static.lib(mysql_native_statement_wrapper.obj) : warning LNK4099: PDB '' was not found with 'mysqlcppconn-static.lib(mysql_native_statement_wrapper.obj)' or at ''; linking object as if no debug info
+mysqlcppconn-static.lib(mysql_art_rset_metadata.obj) : warning LNK4099: PDB '' was not found with 'mysqlcppconn-static.lib(mysql_art_rset_metadata.obj)' or at ''; linking object as if no debug info
+mysqlcppconn-static.lib(mysql_resultset_metadata.obj) : warning LNK4099: PDB '' was not found with 'mysqlcppconn-static.lib(mysql_resultset_metadata.obj)' or at ''; linking object as if no debug info
+  Project1.vcxproj -> E:\c++ dastabase\Project1\x64\Release\Project1.exe
