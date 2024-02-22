@@ -1,0 +1,12 @@
+﻿  main.cpp
+E:\opencv c++ 1\opencv c++\main.cpp(21,21): warning C4566: character represented by universal-character-name '\u1EC3' cannot be represented in the current code page (1252)
+E:\opencv c++ 1\opencv c++\main.cpp(21,21): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+E:\opencv c++ 1\opencv c++\main.cpp(21,21): warning C4566: character represented by universal-character-name '\u1ECD' cannot be represented in the current code page (1252)
+E:\opencv c++ 1\opencv c++\main.cpp(21,21): warning C4566: character represented by universal-character-name '\u1EA3' cannot be represented in the current code page (1252)
+E:\opencv c++ 1\opencv c++\main.cpp(76,16): warning C4566: character represented by universal-character-name '\u1EA2' cannot be represented in the current code page (1252)
+E:\opencv c++ 1\opencv c++\main.cpp(76,16): warning C4566: character represented by universal-character-name '\u1ED1' cannot be represented in the current code page (1252)
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 178 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  opencv c++.vcxproj -> E:\opencv c++ 1\x64\Release\opencv c++.exe
